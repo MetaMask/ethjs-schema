@@ -1,3 +1,5 @@
+# 0.1.5 -- added sign methods
+
 # 0.1.4 -- receiptsRoot fix
 
 1. Fixed Block `receiptsRoot` property (was `receiptRoot`)
